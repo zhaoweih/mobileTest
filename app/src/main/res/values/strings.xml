@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">mobileTest</string>
+    <string name="flight_info">Flight Info</string>
+    <string name="origin_code">Origin Code:</string>
+    <string name="origin_name">Origin Name:</string>
+    <string name="destination_code">Destination Code:</string>
+    <string name="destination_name">Destination Name:</string>
+    <string name="oops_something_went_wrong">Oops!Something went wrong!</string>
+</resources>
